@@ -6,3 +6,6 @@
 	url = https://github.com/brenotakiuti/WFE_Functions.git
 [submodule "git-icon"]
 	url = https://github.com/JacobDB/git-icon.git
+[submodule "Error-Guides"]
+	path = Error-Guides
+	url = https://github.com/brenotakiuti/Error-Guides.git
