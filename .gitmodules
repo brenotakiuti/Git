@@ -1,4 +1,4 @@
-[submodule "Doc/Plane-Elements-"]
+[submodule "Doc/Plane-Elements"]
 	url = https://github.com/brenotakiuti/Plane-Elements.git
 [submodule "Doc/Rod-and-Beam"]
 	url = https://github.com/brenotakiuti/Rod-and-Beam.git
