@@ -1,5 +1,5 @@
 [submodule "git-icon"]
-	url = https://github.com/JacobDB/git-icon.git
+	url = git@github.com:JacobDB/git-icon.git
 [submodule "Error-Guides"]
 	path = Error-Guides
-	url = https://github.com/brenotakiuti/Error-Guides.git
+	url = git@github.com:brenotakiuti/Error-Guides.git
